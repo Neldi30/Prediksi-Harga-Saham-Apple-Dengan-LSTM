@@ -1,4 +1,5 @@
 Laporan Proyek Peramalan Harga Saham Apple (AAPL)
+
 #1. Domain Proyek
 Latar Belakang
 Peramalan harga saham merupakan salah satu permasalahan yang sangat relevan di dunia finansial. Investor dan analis pasar keuangan sering kali bergantung pada teknik peramalan untuk membuat keputusan investasi yang lebih baik. Salah satu pendekatan yang sering digunakan adalah time series forecasting, yang bertujuan untuk memprediksi harga saham di masa depan berdasarkan pola historis.
